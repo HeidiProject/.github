@@ -20,7 +20,7 @@ The project utilizes a microservice architecture and currently consists of the f
 ## 🌈 Heidi Team
 * Kate Smith - Project Manager & Lead Developer 
 * May Sharpe - Project Owner 
-* Katherine MCauley - Application Specialist
+* Katherine McAuley - Application Specialist
 * Ezequiel (Zac) Panepucci - Technical Specialist & Developer
 
 ## 💻 Code contributors from PSI
