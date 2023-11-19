@@ -12,9 +12,22 @@ The project utilizes a microservice architecture and currently consists of the f
 * mxdb-server
 * mxdb-streaming
 * nginx-reverse-proxy
+* data-models
 
 ## Presentations
 [Poster-PSDI-2023](https://docs.google.com/presentation/d/1aZAQxVaGaM4u1SDbloiP0J_nX8N-GevU/edit?usp=sharing&ouid=112044226177950456845&rtpof=true&sd=true)
+
+## 🌈 Heidi Team
+* Kate Smith - Project Manager & Lead Developer 
+* May Sharpe - Project Owner 
+* Katherine MCauley - Application Specialist
+* Ezequiel (Zac) Panepucci - Technical Specialist & Developer
+
+## 💻 Code contributors from PSI
+* Kate Smith
+* Ezequiel (Zac) Panepucci
+* Justyna Wojdyla (past member)
+* Jakub Kaminski (past member)
 
 <!--
 
