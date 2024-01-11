@@ -26,6 +26,7 @@ The project utilizes a microservice architecture and currently consists of the f
 ## 💻 Code contributors from PSI
 * Kate Smith
 * Ezequiel (Zac) Panepucci
+* Alexander Metz
 * Justyna Wojdyla (past member)
 * Jakub Kaminski (past member)
 
