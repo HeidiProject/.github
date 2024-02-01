@@ -11,6 +11,8 @@ The project utilizes a microservice architecture and currently consists of the f
 * image-server
 * mxdb-server
 * mxdb-streaming
+* ffcs_db_server
+* ffcs_db_client
 * nginx-reverse-proxy
 * data-models
 
