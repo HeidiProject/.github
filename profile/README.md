@@ -19,6 +19,8 @@ The project utilizes a microservice architecture and currently consists of the f
 ## Presentations
 [Poster-PSDI-2023](https://docs.google.com/presentation/d/1aZAQxVaGaM4u1SDbloiP0J_nX8N-GevU/edit?usp=sharing&ouid=112044226177950456845&rtpof=true&sd=true)
 
+[LIMS talk 14-05-2024](https://docs.google.com/presentation/d/1RlYzrnT3_RkbBzAylO5f8POxt6EQ0b5Z8z6CPF0Z-H0/edit#slide=id.g2cb29781dfa_0_189)
+
 ## 🌈 Heidi Team
 * Kate Smith - Project Manager & Lead Developer 
 * May Sharpe - Project Owner 
